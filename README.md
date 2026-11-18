@@ -101,6 +101,8 @@ The analysis identified four customer groups:
 | Cluster 2 | Lower-income, lower-spending customers living alone |
 | Cluster 3 | Higher-income, higher-spending customers living alone |
 
+These profiles are interpretations of the cluster characteristics rather than predefined labels.
+
 
 ## 📊 Customer Segmentation Visualizations
 
@@ -110,8 +112,10 @@ The analysis identified four customer groups:
 
 ![PCA Visualization](smartcart-customer-segmentation/Images/cluster_distribution.png)
 
+![Heatmap ](smartcart-customer-segmentation/Images/Heatmap.png)
 
-These profiles are interpretations of the cluster characteristics rather than predefined labels.
+![Cluster_summary](smartcart-customer-segmentation/Images/cluster_summary.png)
+
 
 ## 💡 Business Insights
 
