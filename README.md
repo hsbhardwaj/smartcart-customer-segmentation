@@ -104,11 +104,11 @@ The analysis identified four customer groups:
 
 ## 📊 Customer Segmentation Visualizations
 
-![Customer Clusters](agglomerative_clusters.png)
+![Customer Clusters](smartcart-customer-segmentation/Images/agglomerative_clusters.png)
 
-![Cluster Comparison](income_vs_spending.png)
+![Cluster Comparison](smartcart-customer-segmentation/Images/income_vs_spending.png)
 
-![PCA Visualization](cluster_distribution.png)
+![PCA Visualization](smartcart-customer-segmentation/Images/cluster_distribution.png)
 
 
 These profiles are interpretations of the cluster characteristics rather than predefined labels.
